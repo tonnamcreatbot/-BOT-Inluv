@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "Tonnam Swifx", // required by Discord API, not shown in the client
-        state: "Powered by tonnam swiftx",     // this is what people actually see
+        state: "ㅤㅤㅤ",     // this is what people actually see
         type: 3,               // Custom
       },
     ],
